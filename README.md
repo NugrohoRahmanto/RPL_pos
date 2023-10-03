@@ -19,10 +19,6 @@
 # Admin Credentials
 > Email: super.admin@test.com || Password: 12345678
 
-## Demo
-![Triangle POS](public/images/screenshot.jpg)
-**Live Demo:** will update soon
-
 ## Triangle POS Features
 
 - **Products Management & Barcode Printing**
@@ -39,6 +35,3 @@
 - **Unit Settings**
 - **System Settings**
 - **Reports**
-
-# License
-**[Creative Commons Attribution 4.0	cc-by-4.0](https://creativecommons.org/licenses/by/4.0/)**
